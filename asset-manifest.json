@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wad-case-study/static/css/main.db62923b.css",
+    "main.js": "/wad-case-study/static/js/main.119c3dda.js",
+    "static/js/453.acca0757.chunk.js": "/wad-case-study/static/js/453.acca0757.chunk.js",
+    "static/media/ACE.jpg": "/wad-case-study/static/media/ACE.10c155dd07aeaba96620.jpg",
+    "static/media/aboutMeImage.jpg": "/wad-case-study/static/media/aboutMeImage.db43acc2ad6557702eaa.jpg",
+    "index.html": "/wad-case-study/index.html",
+    "main.db62923b.css.map": "/wad-case-study/static/css/main.db62923b.css.map",
+    "main.119c3dda.js.map": "/wad-case-study/static/js/main.119c3dda.js.map",
+    "453.acca0757.chunk.js.map": "/wad-case-study/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.119c3dda.js"
+  ]
+}
